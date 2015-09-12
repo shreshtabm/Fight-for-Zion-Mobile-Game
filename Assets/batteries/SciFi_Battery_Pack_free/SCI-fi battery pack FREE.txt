@@ -1,0 +1,27 @@
+SCI-FI Battery Pack FREE
+
+by Artliminal
+
+--- What it is ---
+
+This is a sample of the Battery pack located at https://www.assetstore.unity3d.com/en/#!/content/12231.
+
+The complete battery pack is a collection of very detailed items for making your cool SCI-fi environments even cooler! 
+optimized for both PC and mobile platforms, the polycount is low, the texture atlas provides a lot of visual information.
+
+Specs:
+
+- 2 texture atlases 512px; 1 for normal, 1 for damage variation (1024px in the complete pack + normal map + emissive)
+- 3 meshes, fbx format (35 meshes in the complete pack)
+
+--- Prefabs ---
+
+Just the meshes with textures, Pivots are all aligned to the base of the meshes for easier placement on surfaces.
+
+--- Word from the author ---
+
+You can use these assets in any way you want except for selling them as-is. If you like what you see, check out the full pack and see if it's just what you need to spruce up your sci-fi environment!
+
+Have fun with the pack, please rate and review, your feedback is much appreciated and it helps me bring you better content!
+
+If you have any questions, you can reach me at artliminal.ro@gmail.com.
